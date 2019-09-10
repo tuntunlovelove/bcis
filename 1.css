@@ -1,0 +1,460 @@
+*{margin:0;padding: 0px 0px;}
+
+#phan_new a.readmore {
+    color: #D93E34;
+    font-size: 14px;
+    text-decoration-line: underline;
+}
+
+.noidungpost {
+    font-size: 14px;
+    padding-right: 11px;
+    padding-top: 10px;
+    padding-bottom: 3px;
+    color: #484848;
+}
+
+#phan_new .bg_col_explorer {
+    height: 356px;
+}
+
+.titlepost {
+    padding-top: 5px;
+    font-size: 16px;
+}
+
+.thoigianpost {
+    color: #D93E34;
+    font-size: 14px;
+}
+
+.text_new_post.text-left {
+    padding-left: 25px;
+    padding-top: 16px;
+}
+
+#phan_new .col-xs-4.col-sm-4.col-md-4.col-lg-4.text-center {
+}
+
+.benphai button.btn.btn-default {
+    padding-top: 11px;
+    padding-left: 23px;
+}
+
+.benphai .col-sm-12 {
+    padding: 0px;
+}
+
+.subscribe_now {
+}
+
+.benphai .input-group {
+}
+
+footer input.form-control {border-radius: 50px;height: 50px;}
+
+.col-xs-7.col-sm-7.col-md-7.col-lg-7 {
+    padding-top: 80px;
+    padding-left: 104px;
+}
+
+footer li {
+    margin: 20px 0px;
+}
+
+.benphai li {
+    float: left;
+    margin: 0px 4px;
+}
+
+footer ul {
+    list-style-type: none;
+    color: #fff;
+}
+
+footer hr {
+    border: 1px solid #fff;
+    opacity: 0.2;
+    margin: 28px 0px;
+}
+
+.background_footer p {
+    font-size: 14px;
+    color: #fff;
+}
+
+.background_footer h3 {
+    font-size: 16px;
+    color: #fff;
+    padding-top: 32px;
+}
+
+.col-xs-5.col-sm-5.col-md-5.col-lg-5.text-center {
+    padding-top: 50px;
+}
+
+.col-xs-5 col-sm-5 col-md-5 col-lg-5 img {}
+
+.col-xs-5.col-sm-5.col-md-5.col-lg-5.text-center .img {}
+
+img {}
+
+#footer_1 img {
+    padding-bottom: 30px;
+}
+
+.viencot img {padding-top: 14px;}
+
+.welcome p {
+    font-size: 15px;
+    line-height: 32px;
+    color: #484848;
+}
+
+.featuresbox p {
+    font-size: 14px;
+    line-height: 28px;
+    color: #464646;
+}
+
+.noidung_cot_alumni.text-left {
+    padding-top: 14px;
+}
+
+.background_alumni h4 {
+    font-size: 15px;
+    color: #b1b1b1;
+    padding-bottom: 6px;
+}
+
+.background_alumni h3 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.text_alumni.text-center {
+    padding-top: 90px;
+}
+
+.text_alumni.text-center {}
+
+.viencot {
+    border: 1px solid #C8C4C4;
+    border-radius: 14px;
+    padding: 16px;
+    height: 291px;
+}
+
+.text_alumni hr {
+    border: 2px solid #ffffff;
+    width: 31px;
+    margin: auto;
+}
+
+.text_alumni h2 {
+    font-size: 24px;
+    font-weight: bolder;
+    color: #ffffff;
+}
+
+.background_alumni {
+    background: url(images/Alumni.png);
+    background-size: cover;
+    height: 650px;
+    margin-top: 100px;
+}
+
+a.nav-link {
+    margin: 5px;
+}
+
+li.nav-item.active {
+}
+
+.explorer .row {
+    padding-top: 20px;
+}
+
+.bg_col_explorer p {
+    color: #E12B30;
+}
+
+.explorer a.p {
+    color: #E12B30;
+    font-size: 15px;
+}
+
+.explorer p {
+    font-size: 14px;
+    margin: 15px;
+    line-height: 28px;
+    color: #484848;
+}
+
+.explorer hr {
+    border: 2px solid #D93E34;
+    width: 31px;
+    margin: auto;
+}
+
+.explorer hr {
+}
+
+.explorer h2 {
+    font-size: 24px;
+    font-weight: bolder;
+    color: #D93E34;
+}
+
+.action a {
+    color: #E7C653;
+    text-decoration: underline;
+    /* text-decoration: none; */
+}
+
+.row_1.col-xs-6.col-sm-6.col-md-6.col-lg-6 {
+    background-color: #D93E34;
+    padding: 70px 40px 60px;
+}
+
+.action p {
+    font-size: 15px;
+    color: #fff;
+    line-height: 28px;
+}
+
+.action hr {
+    border: 2px solid #ffffff;
+    width: 31px;
+}
+
+.action h2 {
+    font-size: 24px;
+    font-weight: bolder;
+    color: #ffffff;
+}
+
+.about .row {
+    padding-bottom: 110px;
+    padding-top: 40px;
+}
+
+.about p {
+    line-height: 24px;
+    color: #484848;
+    font-size: 15px;
+    padding-top: 5px;
+}
+
+.about h3 {
+    margin-bottom: 0px;
+    font-size: 26px;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 6px;
+}
+
+.about .row {
+    margin-top: 40px;
+}
+
+.about_point p {
+    margin-bottom: 0;
+}
+
+.about_point {
+}
+
+.about_background {
+    background: #FFFFFF;
+    box-shadow: 0 2px 19px 0 rgba(157,133,133,0.18);
+    border-radius: 14px;
+    padding: 25px;
+    height: 207px;
+}
+
+.about_point img {
+    padding-top: 11px;
+}
+
+.bg_icon {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 10px 0 rgba(0,0,0,0.11);
+}
+
+ul.navbar-nav {
+    margin-left: auto;
+}
+
+img.welcome {
+    padding-left: 125px;
+}
+
+.noidung {
+    padding-top: 67px;
+}
+
+.welcome hr {
+    border: 2px solid #D93E34;
+    width: 31px;
+}
+
+.welcome h2 {
+    font-size: 24px;
+    font-weight: bolder;
+    color: #D93E34;
+}
+
+.feature1 h3 {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.feature1 img {
+    height: 60px;
+    margin-bottom: 21px;
+}
+
+.feature1.text-center {
+    padding: 30px 25px;
+}
+
+.container {}
+
+.background_alumni .container {
+    padding-top: 24px;
+}
+
+.container.explorer {
+    padding-top: 100px;
+}
+
+.featuresbox {
+}
+
+.featuresbox {
+    background: #FFFFFF;
+    box-shadow: 0 12px 42px 0 rgba(0,0,0,0.09);
+    border-radius: 25px;
+    position: relative;
+    top: -70px;
+    height: 250px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+#phan_new img.image-reponsive {
+    padding-top: 16px;
+}
+
+span.input-group-btn {
+    width: 80px;
+    background-image: linear-gradient(135deg, #610A0D 0%, #F33539 100%);
+    border-radius: 0px 50px 50px 0px;
+}
+
+.background_footer {
+    background-color: #D93E34;
+    margin-top: 100px;
+}
+
+.explorer img.image-responsive {
+    width: 255px;
+}
+
+#phan2 img.image-responsive {
+    width: auto;
+    padding: 10px;
+}
+
+.bg_col_explorer {
+    background: #FFFFFF;
+    box-shadow: 0 2px 19px 0 rgba(157,133,133,0.18);
+    border-radius: 14px;
+    height: 235px;
+}
+
+#phan2 .bg_col_explorer {
+    height: 300px;
+}
+
+.background_action {
+    background-color: #f8f8f8;
+}
+
+.background_alumni p {
+}
+
+.text_alumni p {
+    font-size: 14px;
+    line-height: 28px;
+    padding-top: 15px;
+}
+
+.noidung_cot_alumni p {font-size: 14px;line-height: 24px;}
+
+.background_alumni p {
+    color: #fff;
+}
+
+#phan2 .bg_col_explorer p {
+    color: #484848;
+    margin: 4px;
+}
+
+.welcome row p {
+    font-size: 15px;
+}
+
+.slider {
+    height: 750px;
+    background: url(images/slider.jpg);
+    background-size: cover;
+}
+
+ul.nav.navbar-nav.navbar-right {margin-top: 30px;/* color: black; */}
+
+nav.navbar.navbar-default {
+    margin: 0px;
+    background: #fff;
+}
+
+.navbar-header {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+a.logo {
+    /* margin-top: 10px; */
+    /* height: 70px; */
+}
+
+.subscribe_form {
+  /* width: 500px; */
+  border-radius: 50px;
+  width: 285px;
+  margin: 0 auto;
+  box-shadow: 0px 2px 5px 0px rgba(10, 6, 20, 0.24);
+  &:focus {
+  outline: none;
+  }
+  .form-control {
+  border: none;
+    &:focus {
+  box-shadow: none;
+    }
+  }
+  input {
+    height: 44px;
+  }
+  
+
+ 
